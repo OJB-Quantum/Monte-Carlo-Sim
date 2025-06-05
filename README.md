@@ -12,11 +12,15 @@ Some interesting examples of Monte Carlo simulations performed with CUDA Python 
 
 ![Untitled](https://github.com/user-attachments/assets/c7c45bb6-567c-4026-852b-d793dbaeb95a)
 
+---
+
 > 2-D Heat Equation
 
 ![Untitled](https://github.com/user-attachments/assets/881ad174-2794-41ea-941b-1bd501f5b525)
 
 ![Untitled](https://github.com/user-attachments/assets/76dbca80-6f21-4f3c-b637-8c6e6f9ed58f)
+
+---
 
 > Egg White Resist Electron-Beam Penetration Simulation
 
@@ -24,10 +28,15 @@ Some interesting examples of Monte Carlo simulations performed with CUDA Python 
 
 ![Untitled](https://github.com/user-attachments/assets/7823b8db-3aeb-4e15-aeaf-108cfbfecd6b)
 
+---
+
 > Terabyte-Level L1 Cache Prediction
 
 ![Untitled](https://github.com/user-attachments/assets/c8250abc-e625-4540-a7a3-7367464670ea)
+![Untitled](https://github.com/user-attachments/assets/d1580a58-e483-41f6-b93c-9c2bd863878e)
 ![image](https://github.com/user-attachments/assets/46df41c8-0bc2-481f-ab9a-5236c4f37c74)
+
+---
 
 > Semantic Shift Simulation
 
