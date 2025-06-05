@@ -10,7 +10,7 @@ Some interesting examples of Monte Carlo simulations performed with CUDA Python 
 
 > Josephson Junction Quantum Tunneling Prediction
 
-![Untitled](https://github.com/user-attachments/assets/c7c45bb6-567c-4026-852b-d793dbaeb95a)
+![Untitled](https://github.com/user-attachments/assets/5a763407-c31f-4b75-924f-6db97bbc39b8)
 
 ---
 
