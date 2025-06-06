@@ -16,6 +16,12 @@ No need to download anything manually. Just run the notebooks.
 
 ---
 
+> 3D Ion Beam Etching Simulation
+
+![image](https://github.com/user-attachments/assets/bb88bc0b-b620-4e35-b666-704aa6d5e75e)
+
+---
+
 > 2-D Heat Equation
 
 ![Untitled](https://github.com/user-attachments/assets/881ad174-2794-41ea-941b-1bd501f5b525)
