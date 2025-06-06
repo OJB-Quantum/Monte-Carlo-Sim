@@ -1,5 +1,5 @@
 # Monte-Carlo-Sim
-Some interesting examples of Monte Carlo simulations performed with CUDA Python in Google Colab. The notebooks are authored by Onri Jay Benally with citations, if relevant.
+Some interesting examples of Monte Carlo simulations performed with CUDA Python ([CuPy](https://docs.cupy.dev/en/stable/overview.html)) in Google Colab. The notebooks are authored by Onri Jay Benally with citations, if relevant.
 
 No need to download anything manually. Just run the notebooks.
 
